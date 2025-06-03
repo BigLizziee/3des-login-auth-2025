@@ -22,14 +22,19 @@ O processo de autenticação nesta API funciona da seguinte maneira:
 4.  **Geração do Token:** Se as credenciais estiverem corretas, a API gerará um Token JWT (JSON Web Token). Este token possui um tempo de validade de 2 minutos.
 5.  **Acesso a Rotas Protegidas:** Com o token válido em mãos, você poderá acessar rotas protegidas da API (como a seção de "Posts"). Para isso, será necessário incluir o token na sua requisição, seguindo o processo de autenticação definido.
 
+
 ## Recursos Visuais e Testes
 
 Abaixo estão os wireframes e exemplos de testes realizados:
 
 *   **Wireframe de Login:**
-    ![Wireframe de Login]("./assets/02.png")
+    ![Wireframe de Login](./assets/02.png)
 *   **Wireframe de Posts e Autenticação:**
-    ![Wireframe de Posts e Autenticação]("./assets/01.png")
+    ![Wireframe de Posts e Autenticação](./assets/01.png)
+
+...existing code...
+
+![Diagrama UML](./assets/03.png)
 
 ## Equipe de Testes
 
@@ -53,4 +58,4 @@ As seguintes tecnologias foram essenciais para o desenvolvimento e teste deste p
 
 Consulte o Diagrama de Atividades e o Diagrama Entidade-Relacionamento (DER) para uma compreensão mais aprofundada da estrutura:
 
-![Diagrama UML]("./assets/03.png")
+![Diagrama UML](./assets/03.png)
