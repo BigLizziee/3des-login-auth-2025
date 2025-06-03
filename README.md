@@ -27,9 +27,9 @@ O processo de autenticação nesta API funciona da seguinte maneira:
 Abaixo estão os wireframes e exemplos de testes realizados:
 
 *   **Wireframe de Login:**
-    ![Wireframe de Login]("C:\Users\Instrutor\Pictures\Screenshots\Captura de tela 2025-06-03 143119.png")
+    ![Wireframe de Login]("./assets/02.png")
 *   **Wireframe de Posts e Autenticação:**
-    ![Wireframe de Posts e Autenticação]("C:\Users\Instrutor\Pictures\Screenshots\Captura de tela 2025-06-03 143031.png")
+    ![Wireframe de Posts e Autenticação]("./assets/01.png")
 
 ## Equipe de Testes
 
@@ -53,4 +53,4 @@ As seguintes tecnologias foram essenciais para o desenvolvimento e teste deste p
 
 Consulte o Diagrama de Atividades e o Diagrama Entidade-Relacionamento (DER) para uma compreensão mais aprofundada da estrutura:
 
-![Diagrama UML]("C:\Users\Instrutor\Downloads\diagrama_atividades_jwt.png")
+![Diagrama UML]("./assets/03.png")
