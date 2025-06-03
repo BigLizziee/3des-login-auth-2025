@@ -32,9 +32,6 @@ Abaixo estão os wireframes e exemplos de testes realizados:
 *   **Wireframe de Posts e Autenticação:**
     ![Wireframe de Posts e Autenticação](./assets/01.png)
 
-...existing code...
-
-![Diagrama UML](./assets/03.png)
 
 ## Equipe de Testes
 
