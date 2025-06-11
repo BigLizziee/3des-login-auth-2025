@@ -1,17 +1,17 @@
 {
-  "name": "modelo_jwt",
+  "name": "node_api",
   "version": "1.0.0",
-  "main": "server.js",
-  "type": "commonjs",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "dotenv": "^16.5.0",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2"
   }
